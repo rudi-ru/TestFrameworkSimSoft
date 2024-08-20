@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="64207" started-at="2024-08-20T08:41:25Z" finished-at="2024-08-20T08:42:29Z">
+    <groups>
+    </groups>
+    <test name="C:/GitHub/TestFrameworkSimSoft/src/test/resources" duration-ms="64207" started-at="2024-08-20T08:41:25Z" finished-at="2024-08-20T08:42:29Z">
+      <class name="tests.searchform.SearchFormToTest">
+        <test-method status="PASS" signature="checkIsRedirectToListing()[pri:0, instance:tests.searchform.SearchFormToTest@3f9f71ff]" name="checkIsRedirectToListing" duration-ms="57678" started-at="2024-08-20T08:41:25Z" finished-at="2024-08-20T08:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkIsRedirectToListing -->
+        <test-method status="PASS" signature="clearCookiesAndLocalStorage()[pri:0, instance:tests.searchform.SearchFormToTest@3f9f71ff]" name="clearCookiesAndLocalStorage" is-config="true" duration-ms="1672" started-at="2024-08-20T08:42:23Z" finished-at="2024-08-20T08:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookiesAndLocalStorage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:tests.searchform.SearchFormToTest@3f9f71ff]" name="closeBrowser" is-config="true" duration-ms="4383" started-at="2024-08-20T08:42:25Z" finished-at="2024-08-20T08:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.searchform.SearchFormToTest -->
+    </test> <!-- C:/GitHub/TestFrameworkSimSoft/src/test/resources -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
