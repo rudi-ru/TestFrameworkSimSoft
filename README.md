@@ -5,6 +5,9 @@
 - Chrome версия 127.0.6533.120;
 -  chromedriver для соответствующей версии Chrome. 
 
+!!!В файле \src\main\java\pages\test_page\HomePage.java
+изменить значение переменной String filePath = "C:\\GitHub\\TestFrameworkSimSoft\\src\\main\\resources\\2.jpg";
+на своё!!!
 
 !!!Использовать sdk corretto-1.8
 
